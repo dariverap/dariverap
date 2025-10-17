@@ -1,5 +1,10 @@
-# 💫 About Me:
-Egresado destacado del Instituto IDAT, perteneciente al tercio superior de mi promoción en Desarrollo de Sistemas de <br>Información. Experiencia en proyectos utilizando metodología Scrum, demostrando habilidad para crear y desarrollar <br>proyectos en este marco colaborativo. Comprometido con la mejora continua y la resolución colaborativa de problemas. <br>Destaco por mi capacidad de adaptación en entornos colaborativos, mi orientación a resultados y mi responsabilidad <br>en todas las tareas. Apasionado por el análisis de datos y el desarrollo back-end.<br>
+# 👨‍💻 Diego Rivera | Ingeniero de Sistemas
+## 💫 About Me:
+Soy **Ingeniero de Sistemas** apasionado por la tecnología, el análisis de datos y la innovación digital. <br><br>
+💻 Desarrollador web con experiencia en **React**, **Node.js** y **MySQL**, y con una mentalidad orientada al producto: diseñar, construir y mejorar soluciones que realmente aporten valor. <br><br>
+🤖 Actualmente exploro la intersección entre **IA**, **Data Science** y **marketing digital**, con el propósito de crear proyectos que unan desarrollo técnico, estrategia y creatividad. <br><br>
+🚀 Creo en el **aprendizaje constante**, el **trabajo colaborativo** y el **poder de las ideas** cuando se transforman en soluciones tangibles. <br>
+
 
 
 ## 🌐 Socials:
