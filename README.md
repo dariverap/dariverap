@@ -3,7 +3,7 @@
 ## 💫 About Me:
 Soy **Ingeniero de Sistemas** apasionado por la tecnología, el análisis de datos y la innovación digital. <br><br>
 💻 Desarrollador web con experiencia en **React**, **Node.js** y **MySQL**, y con una mentalidad orientada al producto: diseñar, construir y mejorar soluciones que realmente aporten valor. <br><br>
-🤖 Actualmente exploro la intersección entre **IA**, **Data Science** y **marketing digital**, con el propósito de crear proyectos que unan desarrollo técnico, estrategia y creatividad. <br><br>
+🤖 Actualmente exploro la intersección entre **IA**, **Data Science** y **la programacion**, con el propósito de crear proyectos que unan desarrollo técnico, estrategia y creatividad. <br><br>
 🚀 Creo en el **aprendizaje constante**, el **trabajo colaborativo** y el **poder de las ideas** cuando se transforman en soluciones tangibles. <br>
 
 ---
