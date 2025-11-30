@@ -1,5 +1,5 @@
 # ¡Hola! Soy Diego Rivera 👋
-**Ingeniero de Sistemas | Full-Stack Developer | Especialización en Ciencia de Datos en curso| Java • C# • Python**
+**Ingeniero de Sistemas | Full-Stack Developer | Especialización en Ciencia de Datos en curso | Java • C# • Python**
 
 > “Convierto ideas en productos digitales que funcionan y generan impacto.”
 
@@ -50,7 +50,7 @@ Mi meta es trabajar como **Data Scientist Junior/Mid** en una empresa que use da
 
 ### 🌐 ¿Conectamos?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diegoriverapicoy/)
-[![Email](https://img.shields.io/badge/Email-diegorivera.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:08diegorivera@gmail.com)
+[![Email](https://img.shields.io/badge/Email-08diegorivera@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:08diegorivera@gmail.com)
 
 ---
 ⭐️ *Si algo de aquí te parece útil o interesante, ¡deja una estrella!*  
