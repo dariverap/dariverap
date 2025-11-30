@@ -34,14 +34,12 @@ Mi meta es trabajar como **Data Scientist Junior/Mid** en una empresa que use da
 
 ### 📊 Mi GitHub en números (2022 – 2025)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariverap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dariverap&show_icons=true&theme=dracula&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariverap&theme=dracula&hide_border=true&ring=FF0066&fire=FF0066&currStreakLabel=FF0066" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariverap&layout=compact&theme=dracula&hide_border=true&count_private=true" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=dariverap&theme=dracula&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariverap&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 ### 🌱 Próximos pasos (mi roadmap público)
