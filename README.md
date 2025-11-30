@@ -33,14 +33,9 @@ Mi meta es trabajar como **Data Scientist Junior/Mid** en una empresa que use da
 | Herramientas          | Git • Postman • Insomnia • Figma • Notion • Linux                                             |
 
 ### 📊 Mi GitHub en números (2022 – 2025)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariverap&show_icons=true&theme=dracula&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariverap&theme=dracula&hide_border=true&ring=FF0066&fire=FF0066&currStreakLabel=FF0066" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariverap&layout=compact&theme=dracula&hide_border=true" />
-</div>
+<img src="https://mi-stats.vercel.app/api?username=dariverap&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dariverap&theme=dracula&hide_border=true" height="180"/>  <!-- Streak no necesita PAT -->
+<img src="https://mi-stats.vercel.app/api/top-langs/?username=dariverap&layout=compact&theme=dracula&count_private=true&hide_border=true" />
 
 ### 🌱 Próximos pasos (mi roadmap público)
 - Terminar 5 competiciones de Kaggle (Top 20 % o mejor)  
